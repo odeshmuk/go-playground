@@ -33,6 +33,5 @@ func createUserV2() *user {
 		email: "bill@gmail.com",
 	}
 
-	println("v2\t", &u)
 	return &u
 }
